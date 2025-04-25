@@ -4,5 +4,6 @@
 
 Descarga la base de datos utilizada con el siguiente enlace: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
-Autor: Luis Hector Camarillo Amador
-Progreso: 80%
+Al modelo igual se le agrega un filtro sobel (proyecto2_with_sobel.ipynb) pues se espera que el preprocesamiento mejore la extraccion de caracteristicas estructurales relevantes y mejores las capacidades de la CNN de manera eficiente.
+Autor: Luis Hector Camarillo Amador - 24 de abril del 2025
+
